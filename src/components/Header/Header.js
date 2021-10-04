@@ -9,7 +9,7 @@ const Header = () => {
         
         <Navbar bg="primary" variant="dark">
             <Container>
-                <Navbar.Brand > <Image src={logo}></Image> eLearning</Navbar.Brand>
+                <Navbar.Brand > <Image src={logo}></Image> SmartEDU</Navbar.Brand>
                 <Nav className="me-auto">
                     <NavLink to="/home">Home</NavLink>
                     <NavLink to="/about">About</NavLink>
