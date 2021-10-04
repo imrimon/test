@@ -32,11 +32,11 @@ const Contact = () => {
             <div class="direct-contact-container">
 
                 <ul class="contact-list">
-                <li class="list-item"><i class="fa fa-map-marker fa-2x"><span class="contact-text place">City, State</span></i></li>
+                <li class="list-item"><i class="fa fa-map-marker fa-2x"><span class="contact-text place">Dhaka, Bangladesh</span></i></li>
 
-                <li class="list-item"><i class="fa fa-phone fa-2x"><span class="contact-text phone"><a href="tel:1-212-555-5555" title="Give me a call">(212) 555-2368</a></span></i></li>
+                <li class="list-item"><i class="fa fa-phone fa-2x"><span class="contact-text phone"><a href="tel: 01825669165" title="Give me a call">(+88) 1825669165</a></span></i></li>
 
-                <li class="list-item"><i class="fa fa-envelope fa-2x"><span class="contact-text gmail"><a href="mailto:#" title="Send me an email">elearning@gmail.com</a></span></i></li>
+                <li class="list-item"><i class="fa fa-envelope fa-2x"><span class="contact-text gmail"><a href="mailto:#" title="Send me an email">smartedu@gmail.com</a></span></i></li>
 
                 </ul>
             </div>
