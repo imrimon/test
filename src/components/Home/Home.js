@@ -27,13 +27,13 @@ const Home = () => {
 							<div className="col-xl-7 col-lg-7 col-md-12">
 								<div className="text-body mb-7">
 									<h1 className="mb-1 leading-tight ">The World's Largest Selection of Courses</h1>
-									<p className="pt-5">E-learning for kids is a non-profit organization providing free, fun, curriculum based quality primary education to all children world wide. The foundation was launched in the USA in 2004 and in the Netherlands in 2007.It is a long established fact that a reader will be distracted by the readable.</p>
+									<p className="pt-5">SmartEDU for kids is a non-profit organization providing free, fun, curriculum based quality primary education to all children world wide. The foundation was launched in the USA in 2004 and in the Netherlands in 2007.It is a long established fact that a reader will be distracted by the readable.</p>
 								</div>
 								<div className="search-background bg-transparent">
 									<div className="form row g-0 pt-5">
 										<div className="col-xl-3 col-lg-3 col-md-12 mb-0">
                                             <Button variant="primary" type="submit" className="btn btn-xl btn-block btn-primary br-ts-md-0 br-bs-md-0">
-                                                Explor Now
+                                                Check Now
                                             </Button>
 										</div>
 									</div>
@@ -54,7 +54,7 @@ const Home = () => {
                     <div className="section-title d-md-flex">
                         <div>
                             <h2>Latest Courses</h2>
-                            <p className="fs-18 lead">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+                            <p className="fs-18 lead">Check Below Courses</p>
                         </div>
                     </div>
 					<hr/>
